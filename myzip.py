@@ -1,3 +1,8 @@
+флодвижйцу
+wkfjbqw;fjkn
+qw;dklfjnqw;lfjnqw
+;aldkfjlksjdf
+qwlfknjqw;lskfm
 def my_zip(x1, x2):
 	length = min(len(x1), len(x2))
 	for i in range(length):
